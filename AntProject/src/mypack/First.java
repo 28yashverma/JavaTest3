@@ -8,9 +8,14 @@ public class First {
 	{
 		
 	System.out.println("Yeshendra");
+<<<<<<< HEAD
 
 	 System.out.println("Vaishno");
 
+=======
+	
+	System.out.println("Deepak");
+>>>>>>> deepak
 
 	}
 
