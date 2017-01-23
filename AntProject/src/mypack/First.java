@@ -9,8 +9,6 @@ public class First {
 		
 	System.out.println("Yeshendra");
 
-	System.out.println("Deepak");
-
 
 	}
 
