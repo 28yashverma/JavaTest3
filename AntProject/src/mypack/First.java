@@ -8,10 +8,15 @@ public class First {
 	{
 		
 	System.out.println("Yeshendra");
-	System.out.println("Prabhjeet + newly changes + made on git hub website");
-
 	System.out.println("Conflict should happen from - Yeshendra");
 System.out.println("Conflict should happen from - Vaishno");
+
+	 System.out.println("Vaishno");
+
+
+	
+	System.out.println("Deepak");
+
 
 	}
 
